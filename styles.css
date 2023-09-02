@@ -1,0 +1,34 @@
+
+body{
+ margin:0;
+font-family: sans-serif;
+}
+.first {
+ display: flex;
+flex-direction: column;
+
+
+ width: 100%;
+ height: 30%;
+
+
+}
+.title{
+    margin-left: 50px;
+   
+}
+.title2{
+    
+    font-size:22px;
+}
+hr{
+    border-style: dotted none none;
+    border-width: 15px;
+    width: 10%;
+}
+.seconde{
+    margin-left: 50px;
+}
+.third{
+    margin-left: 50px;
+}
